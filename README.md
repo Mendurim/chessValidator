@@ -1,2 +1,2 @@
 # chessValidator
-A Javascript validator for chess move generation/validation, piece placement/movement. 
+A Ruby validator for chess move generation/validation, piece placement/movement. 
