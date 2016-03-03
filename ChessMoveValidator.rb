@@ -9,7 +9,6 @@ require "pry"
 # 			["g1", "g2", "g3", "g4", "g5", "g6", "g7", "g8"],
 # 			["h1", "h2", "h3", "h4", "h5", "h6", "h7", "h8"]	]
 
-
 module Translate
 	def extract_file_to_array(file)
 		text = IO.read(file)
